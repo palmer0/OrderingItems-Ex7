@@ -13,7 +13,7 @@ import es.ulpgc.eite.da.orderingitems.app.AppMediator;
 import es.ulpgc.eite.da.orderingitems.data.ItemData;
 import es.ulpgc.eite.da.orderingitems.item.ItemDetailActivity;
 
-;
+
 
 public class ItemListActivity
     extends AppCompatActivity implements ItemListContract.View {
